@@ -9,7 +9,7 @@ sudo apt-get install libwxgtk3.0-0v5 libglew-dev libcairo2-dev libbz2-dev \
                      libboost-dev libboost-thread-dev libboost-context-dev \
                      libboost-filesystem-dev libboost-iostreams-dev \
                      libboost-locale-dev libboost-program-options-dev \
-                    swig
+                     swig python-wxgtk3.0*
 
 cd kicad
 git pull
